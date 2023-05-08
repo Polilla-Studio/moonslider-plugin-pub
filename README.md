@@ -46,4 +46,4 @@ Send us an email to [hello@polilla.studio](mailto:hello@polilla.studio) and we'l
 
 Or you can visit [GitHub Issues Page](https://github.com/Polilla-Studio/moonslider-plugin-pub/issues) to report any issues with plugin.
 
-You can read the [technical documentation](moonslider-plugin-pub/tech-doc.md)
+You can read the [technical documentation](https://github.com/Polilla-Studio/moonslider-plugin-pub/blob/main/moonslider-plugin-pub/tech-doc.md)
